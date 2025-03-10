@@ -1,0 +1,62 @@
+Scenario_manager,model_variable
+Location,Location
+Energy price forecast,Energy price forecast
+FCAS price forecast,FCAS price forecast
+Power capacity,Pwr_cap
+Initial energy capacity,Enrgy_init_cap
+Battery charging efficiency AC,Chrg_efncy
+Battery discharging efficiency AC,Disch_efncy
+Battery max charge from grid,Max_grid_charge
+Battery charging power to capacity ratio ,charge_ratio
+Battery discharging power to capacity ratio ,discharge_ratio
+Maximum cycles per day,Max_cyc_per_day
+Maximum daily cycle spread 1 - current cycles,Maximum daily cycle spread 1 - current cycles
+Maximum daily cycle spread 1 - cycle restriction,Maximum daily cycle spread 1 - cycle restriction
+Maximum daily cycle spread 2 - current cycles,Maximum daily cycle spread 2 - current cycles
+Maximum daily cycle spread 2 - cycle restriction,Maximum daily cycle spread 2 - cycle restriction
+Maximum daily cycle spread 3 - current cycles,Maximum daily cycle spread 3 - current cycles
+Maximum daily cycle spread 3 - cycle restriction,Maximum daily cycle spread 3 - cycle restriction
+Maximum daily cycle spread 4 - current cycles,Maximum daily cycle spread 4 - current cycles
+Maximum daily cycle spread 4 - cycle restriction,Maximum daily cycle spread 4 - cycle restriction
+Maximum daily cycle spread 5 - current cycles,Maximum daily cycle spread 5 - current cycles
+Maximum daily cycle spread 5 - cycle restriction,Maximum daily cycle spread 5 - cycle restriction
+Services Throughput Energy,Svc_throuput_enrgy
+Services Throughput Raise1sec,Svc_throuput_R1
+Services Throughput Raise6sec,Svc_throuput_R6
+Services Throughput Raise60sec,Svc_throuput_R60
+Services Throughput Raise5min,Svc_throuput_R5
+Services Throughput RaiseReg,Svc_throuput_Rreg
+Services Throughput Lower1sec,Svc_throuput_L1
+Services Throughput Lower6sec,Svc_throuput_L6
+Services Throughput Lower60sec,Svc_throuput_L60
+Services Throughput Lower5min,Svc_throuput_L5
+Services Throughput LowerREG,Svc_throuput_Lreg
+Environmental costs LGC,LGC_scnrio
+Environmental costs STC,STC_scnrio
+Distribution network service provider,DNSP
+Network tariff,DNSP_tariff
+Retail margin on charge and discharge,retail_margin_rev
+Battery droop characteristic,Droop
+Minimum average spread,min_avg_spread
+Maximum average spread,max_avg_spread
+RREG minimum spread,rreg_min_avg_spread
+RREG maximum spread,rreg_max_avg_spread
+FCAS Utilisation adjustment factor,rreg_risk_adj
+DLF connection,DLF
+Market Generator and Customer?,Market Generator and Customer?
+FCAS Causer Pays Factor,CPF
+Degradation,Degradation
+Energy discharge market registration,Energy_discharge_market
+Energy charge market registration,Energy_charge_market
+r1sec market registration,R1_market
+r6sec market registration,R6_market
+r60sec market registration,R60_market
+r5min market registration,R5_market
+l1sec market registration,L1_market
+l6sec market registration,L6_market
+l60sec market registration,L60_market
+l5min market registration,L5_market
+raise reg market registration,Rreg_market
+lower reg market registration,Lreg_market
+PPA load curve,PPA load curve
+PPA load,PPA load

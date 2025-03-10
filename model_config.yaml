@@ -1,0 +1,13 @@
+# mode parameters
+
+parameters:
+ RunPeriod   : 24 # hours
+ resolution  : 5 # mins
+ SOC_init    : 0.5
+ behind_meter: Yes
+
+model:
+ solver       : cbc
+ write_log    : False
+ display_log  : False
+ time_limit   : 7200 # in seconds
