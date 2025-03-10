@@ -1,0 +1,3 @@
+Parameter,Value,Description,Example
+Scenario manager file,ScenarioManager_NEMBatteries.xlsx,The name of scenario manager csv file,File Name.csv
+Selected scenarios,1,Can be All or a list of scenarios separated by comma,
